@@ -1,0 +1,19 @@
+title {
+  color: blue;
+}
+
+.fancy {
+  color: red;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+.best {
+  color: orange;
+  font-style: bold;
+}
+
+.picture1 {
+  width: 50%;
+  height: 50%;
+}
